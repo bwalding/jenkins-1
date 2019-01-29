@@ -442,7 +442,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>com.sun.xml.txw2</groupId>
       <artifactId>txw2</artifactId>
-      <version>20070624</version>
+      <version>20110809</version>
     </dependency>
     <dependency>
       <groupId>commons-collections</groupId>
