@@ -47,7 +47,7 @@ THE SOFTWARE.
     <aetherVersion>1.11</aetherVersion>
     <sisuInjectVersion>2.2.0</sisuInjectVersion>
     <wagonVersion>2.0</wagonVersion>
-    <slf4jVersion>1.6.2</slf4jVersion> <!-- < 1.6.x version didn't specify the license (MIT) -->
+    <slf4jVersion>1.7.25</slf4jVersion> <!-- < 1.6.x version didn't specify the license (MIT) -->
   </properties>
 
   <dependencyManagement>
