@@ -397,7 +397,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-core</artifactId>
-      <version>2.5</version>
+      <version>5.1.4.RELEASE</version>
     </dependency>
     <dependency><!-- Jenkins core doesn't use it but HUDSON-3811 requires us to put it. -->
       <groupId>org.springframework</groupId>
