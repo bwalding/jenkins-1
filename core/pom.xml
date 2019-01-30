@@ -113,7 +113,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>org.jvnet.hudson</groupId>
       <artifactId>trilead-ssh2</artifactId>
-      <version>build212-hudson-5</version>
+      <version>build212-hudson-6</version>
     </dependency>
     <dependency>
       <groupId>org.kohsuke.stapler</groupId>
